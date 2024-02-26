@@ -27,7 +27,7 @@ There is no online documentation for this project, it is all in the code.
 
 ## Installation
 
-Just install the latest release from the releases section.
+Just download and compile.
     
 ## License
 
